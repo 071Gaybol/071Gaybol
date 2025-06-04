@@ -1,12 +1,10 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Félix</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A248&center=true&vCenter=true&multiline=true&lines=Olá,+eu+sou+Gabriel+Félix!;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+código." alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <i>Estagiário na <strong>Asaas</strong> • Estudante de ADS na <strong>Descomplica</strong></i><br>
   <i>Curioso, obstinado e apaixonado por aprender e compartilhar conhecimento 💡</i>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=071Gaybol&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -22,26 +20,30 @@ Meu foco atual é me consolidar como <strong>desenvolvedor full stack</strong>, 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grails-8CC84B?style=for-the-badge&logo=groovy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+### 🚀 Back-End
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
+[![Grails](https://img.shields.io/badge/Grails-8CC84B?style=for-the-badge&logo=grails&logoColor=white)](https://grails.org/)
+[![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)](https://groovy-lang.org/)
+
+### 🎨 Front-End
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+### 💾 Banco de Dados
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### 📁 Versionamento
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## 📫 Contato
 
-- 📧 **gabriel.felix0505@gmail.com**
-- 🌐 [**Portfólio**](https://071gaybol.github.io/Sobre-Gabriel/)
+- 📧 **gabriel.felix0505@gmail.com**  
+- 🌐 [**Portfólio**](https://071gaybol.github.io/Sobre-Gabriel/)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/gabriel-f%C3%A9lix-o071/)
 
 ---
