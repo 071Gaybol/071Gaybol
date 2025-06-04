@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A248&center=true&vCenter=true&multiline=true&lines=Olá,+eu+sou+Gabriel+Félix!;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+código." alt="Typing SVG" />
 </h1>
 
+<br>
+
 <p align="center">
   <i>Estagiário na <strong>Asaas</strong> • Estudante de ADS na <strong>Descomplica</strong></i><br>
   <i>Curioso, obstinado e apaixonado por aprender e compartilhar conhecimento 💡</i>
