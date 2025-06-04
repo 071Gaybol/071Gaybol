@@ -1,48 +1,48 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Félix!</h1>
+<h1 align="center">👋 Olá! Eu sou o Gabriel Félix</h1>
 
 <p align="center">
-  <i>Curioso, obstinado e apaixonado por tecnologia 💡</i><br>
-  Estagiário na <b>Asaas</b> • Estudante de Análise e Desenvolvimento de Sistemas na <b>Descomplica</b>
+  <i>Estagiário na <strong>Asaas</strong> • Estudante de ADS na <strong>Descomplica</strong></i><br>
+  <i>Curioso, obstinado e apaixonado por aprender e compartilhar conhecimento 💡</i>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=071Gaybol&theme=dracula&row=1" alt="GitHub Trophies" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=071Gaybol&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=071Gaybol&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou um desenvolvedor em formação, com foco atual no ecossistema Java, apaixonado por aprender coisas novas e compartilhar conhecimento. Gosto de entender como as tecnologias funcionam por trás dos panos e me esforço para evoluir diariamente como profissional e como pessoa.
+Atualmente, sou estagiário na <strong>Asaas</strong>, atuando principalmente com <strong>Java, Spring Boot, Groovy</strong> e <strong>Grails</strong>.  
+Curso <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Descomplica</strong> e sou movido por desafios, aprendizado constante e colaboração.
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### 💻 Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Grails](https://img.shields.io/badge/Grails-8CC84B?style=flat-square&logo=groovy&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-#### 🌐 Front-end
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### 🗃️ Banco de Dados & Ferramentas
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Meu foco atual é me consolidar como <strong>desenvolvedor full stack</strong>, com ênfase no back-end e boas práticas de desenvolvimento.
 
 ---
 
-### 🎯 Objetivo Profissional
+## 🛠️ Tecnologias & Ferramentas
 
-Atualmente, meu foco é me desenvolver como **desenvolvedor full stack**, com uma base sólida em back-end, utilizando Java e seus frameworks. Busco construir soluções eficientes, seguras e bem estruturadas, sempre com atenção ao aprendizado contínuo e boas práticas de desenvolvimento.
+<div align="center" style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grails-8CC84B?style=for-the-badge&logo=groovy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ---
 
-### 📫 Onde me encontrar
+## 📫 Contato
 
 - 📧 **gabriel.felix0505@gmail.com**
 - 🌐 [**Portfólio**](https://071gaybol.github.io/Sobre-Gabriel/)
