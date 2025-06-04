@@ -22,6 +22,7 @@ Meu foco atual é me consolidar como <strong>desenvolvedor full stack</strong>, 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🚀 Back-End
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
 [![Grails](https://img.shields.io/badge/Grails-8CC84B?style=for-the-badge&logo=grails&logoColor=white)](https://grails.org/)
