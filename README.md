@@ -45,7 +45,6 @@ Meu foco atual é me consolidar como <strong>desenvolvedor full stack</strong>, 
 ## 📫 Contato
 
 - 📧 **gabriel.felix0505@gmail.com**  
-- 🌐 [**Portfólio**](https://071gaybol.github.io/Sobre-Gabriel/)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/gabriel-f%C3%A9lix-o071/)
 
 ---
