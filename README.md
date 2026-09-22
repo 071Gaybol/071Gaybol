@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-Atualmente, sou estagiário na <strong>Asaas</strong>, atuando principalmente com <strong>Java, Spring Boot, Groovy</strong> e <strong>Grails</strong>.  
+Atualmente, sou engenheiro no <strong>Asaas</strong>, atuando principalmente com <strong>Java, Spring Boot, Groovy</strong> e <strong>Grails</strong>.  
 Curso <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Descomplica</strong> e sou movido por desafios, aprendizado constante e colaboração.
 
 Meu foco atual é me consolidar como <strong>desenvolvedor full stack</strong>, com ênfase no back-end e boas práticas de desenvolvimento.
