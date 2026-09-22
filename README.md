@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <i>Estagiário na <strong>Asaas</strong> • Estudante de ADS na <strong>Descomplica</strong></i><br>
+  <i>Engenheiro no <strong>Asaas</strong> • Estudante de ADS na <strong>Descomplica</strong></i><br>
   <i>Curioso, obstinado e apaixonado por aprender e compartilhar conhecimento 💡</i>
 </p>
 
